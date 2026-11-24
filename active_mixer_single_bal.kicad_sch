@@ -1161,6 +1161,106 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Active bias to set tail current to 25mA."
+		(exclude_from_sim no)
+		(at 201.93 39.37 0)
+		(size 19.05 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0ca0fe1c-3862-4874-bdf5-e6a4df4e719b")
+	)
+	(text_box "Q1, Q2 base bias set \"firmly\" to set emitter voltage. Total current set by Q3."
+		(exclude_from_sim no)
+		(at 167.64 114.3 0)
+		(size 24.13 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "261f5d7c-2ba2-4a7b-8763-f03950994fd6")
+	)
+	(text_box "Series base resistor to hopefully make it more stable."
+		(exclude_from_sim no)
+		(at 121.92 121.5024 0)
+		(size 22.86 8.0376)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "4a94f53a-87f1-4730-8fdd-754a372306b2")
+	)
+	(text_box "RF and LO inputs quenched with 50 ohm resistors."
+		(exclude_from_sim no)
+		(at 68.58 125.8078 0)
+		(size 19.05 10.0822)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "6884ce1a-92cf-475d-9f17-6aba22c4ff7d")
+	)
+	(text_box "Loop stability"
+		(exclude_from_sim no)
+		(at 158.75 49.8871 0)
+		(size 12.7 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "9f0ee500-3d17-490d-b825-427c80dc42da")
+	)
 	(junction
 		(at 148.59 110.49)
 		(diameter 0)
