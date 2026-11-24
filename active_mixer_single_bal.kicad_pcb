@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -2612,7 +2611,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "5.6k"
 			(at 0 1.05 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3339,7 +3338,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "39"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3887,7 +3886,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2k"
+		(property "Value" "5.6k"
 			(at 0 1.05 90)
 			(layer "F.Fab")
 			(hide yes)
