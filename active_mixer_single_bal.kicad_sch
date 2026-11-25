@@ -1223,7 +1223,7 @@
 	)
 	(text_box "RF and LO inputs quenched with 50 ohm resistors."
 		(exclude_from_sim no)
-		(at 68.58 125.8078 0)
+		(at 68.58 124.5378 0)
 		(size 19.05 10.0822)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
